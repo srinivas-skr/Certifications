@@ -14,6 +14,6 @@ Please explore the folders below for detailed credentials in each area.
 *   ### 👨‍💻 [Internships & Industrial Training](./Internships/)
     *Completion certificates, key skills, and durations for my professional work experience.*
 
-*   ### 📚 [Course Completion Certificates](./Course-Certificates/)
+*   ### 📚 [Course Completion Certificates](./Course_Certificates/)
     *Certificates from various online platforms and training programs, showcasing a diverse skill set.*
     
