@@ -17,9 +17,13 @@ This folder contains certificates and documentation from my professional interns
 * **Duration:** [Febraury, 2023] – [May, 2023]
 * **Key Skills:** Python, Data Structures, Problem Solving
 * **Certificate:** [**View Certificate**](LearnWik_Python_Industrial_Training.pdf)
+  
+  ---
 
 ### Deep Dive into Python Libraries
 * **Company:** Aqmenz Automation Pvt. Ltd.
 * **Duration:** June 2023 – July 2023
 * **Key Skills:** Python, NumPy, Pandas, Matplotlib, Application Projects
 * **Certificate:** [**View Internship Certificate**](Aqmenz_Automation_Python_Internship.pdf)
+
+---
