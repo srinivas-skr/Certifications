@@ -1,7 +1,6 @@
 # AWS Certifications
 
-This folder contains my AWS-related certificates and official credential proofs.  
-All files are original PDFs issued by the respective platform.
+This folder contains my AWS-related certificates and official credential proofs.
 
-- **AWS Educate Certificate** – [View PDF](aws-educate-certificate.pdf)  
-- **AWS Academy Cloud Foundations** – [View PDF](aws-academy-cloud-foundations.pdf)
+* **AWS Academy Cloud Architecting** - [View PDF](AWS_Academy_Graduate_Cloud_Architecting_Training_Badge.pdf)
+* **AWS Academy Machine Learning** - [View PDF](AWS_Academy_Machine_Learning_for_Natural_Language_Processing.pdf)
